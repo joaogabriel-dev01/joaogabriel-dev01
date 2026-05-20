@@ -27,8 +27,7 @@
 
 Sou desenvolvedor Full-Stack e Agile Manager. Atuo gerenciando equipes e transformando requisitos em arquiteturas robustas e prontas para produção, unindo o desenvolvimento de software à agilidade no dia a dia:
 
-- **HUB Inova FEMA**: Atuando como Gestor Ágil no ecossistema de projetos.
-- **Full-Stack Reality**: Desenvolvimento ponta a ponta focado em ecossistemas modernos.
+- **HUB Inova FEMA**: Atuando como Gestor Ágil e Desenvolvedor FullStack no OneFold.
 - **DevOps & Containers**: Automação de ambientes e deploy escalável.
 
 ---
