@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.am/api?username=joaogabriel-dev01&show_icons=true&theme=tokyonight" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=joaogabriel-dev01&layout=compact&theme=tokyonight" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogabriel-dev01&show_icons=true&theme=tokyonight" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-dev01&layout=compact&theme=tokyonight" height="150" alt="languages graph"/>
 </div>
 
 ###
